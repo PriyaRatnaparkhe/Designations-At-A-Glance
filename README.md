@@ -5,4 +5,3 @@ It has a 3-tier architecture which means it consists of 3 layers
 1. Data Layer (Connects with the database)
 2. Business Layer (Acts as a mediator between DL and PL)
 3. Presentation Layer (Connects with the User interface) This projects uses MySQL database.
-The link to working video of the project: https://drive.google.com/file/d/1OnlsJrPS2XqglkzK6lb5HN1QMX-6-kE0/view?usp=sharing
